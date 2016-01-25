@@ -1,6 +1,6 @@
 # Baby-Step, Giant-Step Algorithm
 
-1) q1.py<br/>
+1) q1.py  
 	Naive approach, complexity of O(p).  
 
 2) q1Array.py  
