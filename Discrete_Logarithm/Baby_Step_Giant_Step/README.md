@@ -1,7 +1,7 @@
 # Baby-Step, Giant-Step Algorithm
 
-1) q1.py  
-	Naive approach, complexity of O(p). 
+1) q1.py<br/>
+	Naive approach, complexity of O(p).  
 
 2) q1Array.py  
 	Use an array, space tradeoff, complexity of O(p^1/2).  
